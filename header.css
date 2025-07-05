@@ -210,6 +210,127 @@
     margin-top: -1rem;
 
 }
+@media (max-width: 1024px) {
+  .menu,
+  .menu2 {
+    width: 95%;
+    height: auto;
+    padding: 2rem 1rem;
+  }
 
+  .home,
+  .home2 {
+    padding-left: 1rem;
+    font-size: 2rem;
+  }
 
+  .linea,
+  .linea2 {
+    margin-left: 1rem;
+  }
+
+  .opciones,
+  .opciones11 {
+    margin-left: 0;
+    margin-top: 1rem;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .instagram {
+    margin-left: 0;
+    margin-top: 1rem;
+    justify-content: center;
+  }
+
+  .beautiful-text,
+  .beautiful,
+  .Creative {
+    font-size: 2.5rem;
+    margin-left: 1rem;
+    text-align: center;
+  }
+
+  .beautiful {
+    margin-left: 0;
+    margin-top: 0;
+  }
+
+  .Creative {
+    margin-top: 0;
+  }
+
+  .frase {
+    margin: 2rem auto 0 auto;
+    text-align: center;
+  }
+
+  .frase1 {
+    font-size: 1.5rem;
+  }
+
+  .logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+
+  .sinchan {
+    width: 7rem;
+    height: 7rem;
+    margin-left: 0;
+  }
+
+  .div-frase3 {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .frase3,
+  .frase4 {
+    font-size: 2rem;
+    margin-left: 0;
+  }
+
+  .sinchan2 {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+
+  .img_albert,
+  .img_steve,
+  .img_sincha {
+    width: 8rem;
+    height: auto;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 768px) {
+  .beautiful-text,
+  .beautiful,
+  .Creative {
+    font-size: 2rem;
+  }
+
+  .frase1,
+  .frase3,
+  .frase4 {
+    font-size: 1.3rem;
+  }
+
+  .img_albert,
+  .img_steve,
+  .img_sincha {
+    width: 6rem;
+  }
+
+  .menu,
+  .menu2 {
+    padding: 1rem;
+  }
+}
 

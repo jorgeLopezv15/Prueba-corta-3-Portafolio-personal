@@ -483,3 +483,121 @@ p{
     color: black;
     margin-top: -12px;
 }
+/* Responsive para tablets y pantallas medianas */
+@media (max-width: 1024px) {
+  .cuadrado1,
+  .cuadrado2,
+  .cuadrado3,
+  .cuadrado4,
+  .cuadrado5,
+  .cuadrado6 {
+    flex-direction: column;
+    width: 95%;
+    height: auto;
+  }
+
+  .Herramientas,
+  .Estats,
+  .texto1,
+  .texto2,
+  .texto3,
+  .texto5 {
+    width: 100%;
+    height: auto;
+    padding: 1rem;
+  }
+
+  .imagen_MegaMarket,
+  .imgaen_calculadora,
+  .imagen_FoodDelivery,
+  .imgaen_Hopsital {
+    margin: 2rem auto 0 auto;
+    text-align: center;
+  }
+
+  .imagen_megamarkett,
+  .img_calcu,
+  .imagen_fooddelivery,
+  .img_hospital {
+    width: 90%;
+    height: auto;
+  }
+
+  .Colaboradores2 {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .albertyelonmuskymark_img {
+    width: 10rem;
+    height: 10rem;
+  }
+}
+
+/* Responsive para móviles */
+@media (max-width: 768px) {
+  h6, .MegaMarket, .calculadora, .FoodDeliveryApp, .Hospital, .colaboradores {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  .titulo8 {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .img_calcu,
+  .imagen_megamarkett,
+  .imagen_fooddelivery,
+  .img_hospital {
+    width: 100%;
+    height: auto;
+  }
+
+  .opciones2,
+  .opciones4,
+  .opciones7,
+  .opciones9,
+  .opciones11,
+  .opciones10 {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .texto1,
+  .texto2,
+  .texto3,
+  .texto5 {
+    width: 100%;
+    font-size: 0.9rem;
+  }
+
+  .datoss {
+    padding-left: 0;
+    text-align: center;
+  }
+
+  .firma {
+    font-size: 1.5rem;
+  }
+
+  .cuadrado2,
+  .cuadrado3,
+  .cuadrado4,
+  .cuadrado5,
+  .cuadrado6 {
+    padding: 1rem;
+  }
+
+  .menu,
+  .menu2 {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .sinchan2 img {
+    width: 80px;
+    height: auto;
+  }
+}
