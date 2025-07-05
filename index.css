@@ -1,0 +1,485 @@
+.cuadrado1{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    gap: 1rem;
+    
+    
+
+}
+.Herramientas{
+    width: 41rem;
+    height: 345px;
+    background-image: linear-gradient(to right,  rgb(156, 10, 240),   rgb(156, 10, 240), rgb(218, 3, 247));
+    border-top-left-radius: 20px;     
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px; 
+    
+    
+}
+h6{
+    color: #E9DEFF;
+    font-size: 2rem;
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    margin-left: 30px;
+    margin-top: -1px;
+    margin-top: 30px;
+}
+p{
+    margin-left: 10px;
+    color: #E9DEFF;
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+}
+.Estats{
+    width: 41rem;
+    height: 345px;
+    background-image: linear-gradient(to right,  rgb(156, 10, 240),   rgb(156, 10, 240), rgb(218, 3, 247));
+    border-top-left-radius: 20px;     
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px; 
+}
+.cuadrado2{
+    width: 83rem;
+    height: 30rem;
+    background-color: #E9DEFF;
+    margin: auto;
+    margin-top: 2rem;
+    border-top-left-radius: 20px;     
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px; 
+
+}
+.fecha{
+    margin-left: 20px;
+    color: #E9DEFF;
+}
+.titulo1{
+    margin-top: 2rem;
+}
+.MegaMarket{
+    margin-left: 20px;
+    color: black;
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+.opciones2{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.titulo2{
+    margin-top: 5rem;
+
+}
+.herra_utiliza1{
+
+    margin-left: 20px;
+    color: black;
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+
+}
+
+.texto1{
+    width: 50rem;
+    height: 8rem;
+    margin-left: 20px;
+    
+     
+}
+.imagen_calculadora{
+    margin-left: 55rem;
+    margin-top: -20rem;
+    
+}
+.herramientas-utilizadas{
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: black;
+    
+
+}
+.cuadrado2Git{
+    margin-top: 10px;
+}
+.cuadrado2VSC{
+    margin-top: 7px;
+}
+.cuadrado2HTML{
+    margin-top: 7px;
+}
+.cuadrado2CSS{
+    margin-top: 7px;
+}
+.opciones3{
+    margin-left: 20px;
+    width: 96px;
+    height: 35px;
+    margin-top: 10px;
+    border: 1px solid  #8338EC;
+    border-radius: 30px;
+    box-shadow: 0 0 8px #c043ff, 0 0 16px #c043ff40;
+    transition: all 0.3s ease;
+}
+.FIGMA1{
+    margin-left: 5px;
+}
+.imgaen_calculadora{
+    margin-left: 57rem;
+    margin-top: -26rem;
+}
+.img_calcu{
+    height: 27rem;
+    width: 25rem;
+    border-radius: 20px;
+}
+.cuadrado3{
+    width: 83rem;
+    height: 30rem;
+    background-color: #1E0044;
+    margin: auto;
+    margin-top: 2rem;
+    border-top-left-radius: 20px;     
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px; 
+}
+.fecha2{
+   
+    color:#1E0044;
+    margin-left: 20px;
+
+}
+.calculadora{
+
+    margin-left: 20px;
+    color: #E9DEFF;
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+
+}
+.opciones4{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    gap: 10px;
+
+}
+.herra_utiliza2{
+
+    margin-left: 20px;
+    color: #E9DEFF;
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+
+}
+.titulo3{
+    margin-top: 4rem;
+}
+.herramientas-utilizadas2{
+
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color:#E9DEfF;
+    
+
+}
+.texto2{
+    width: 50rem;
+    height: 8rem;
+    margin-left: 20px;
+    
+
+}
+.cuadrado3Git{
+    margin-top: 7px;
+}
+.cuadrado3VSC{
+    margin-top: 7px;
+
+}
+.cuadrado3HTML{
+    margin-top: 7px;
+
+}
+.cuadrado3CSS{
+    margin-top: 7px;
+
+}
+.opciones6{
+    margin-left: 20px;
+    width: 96px;
+    height: 35px;
+    margin-top: 20px;
+    border: 1px solid  #8338EC;
+    border-radius: 30px;
+    box-shadow: 0 0 8px #c043ff, 0 0 16px #c043ff40;
+    transition: all 0.3s ease;
+  
+}
+.FIGMA2{
+    margin-left: 4px;
+}
+.imagen_MegaMarket{
+    margin-left: 52rem;
+    margin-top: -21rem;
+}
+.imagen_megamarkett{
+    height: 15rem;
+    width: 30rem;
+    border-radius: 20px;
+    background-color: transparent;
+    mix-blend-mode: multiply;
+    filter: brightness(1.1) contrast(1);
+    background-color: #a5c5cf8e;
+    
+}
+.cuadrado4{
+    width: 83rem;
+    height: 30rem;
+    background-color:#E9DEFF;
+    margin: auto;
+    margin-top: 2rem;
+    border-top-left-radius: 20px;     
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+.fecha3{
+    margin-left: 20px;
+    color: #E9DEFF;
+}
+.FoodDeliveryApp{
+    margin-left: 20px;
+    color: black;
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+
+}
+.titulo4{
+    margin-top: 2rem;
+}
+.opciones7{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    gap: 10px;
+}
+.titulo5{
+    margin-top: 4rem;
+}
+.herra_utiliza3{
+
+    margin-left: 20px;
+    color: black;
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+
+}
+.texto3{
+    width: 50rem;
+    height: 8rem;
+    margin-left: 20px;
+}
+.herramientas-utilizadas3{
+
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color:black;
+}
+
+.cuadrado3Git{
+    margin-top: 7px;
+}
+.cuadrado3VSC{
+    margin-top: 7px;
+
+}
+.cuadrado3HTML{
+    margin-top: 7px;
+
+}
+.cuadrado3CSS{
+    margin-top: 7px;
+}
+.opciones8{
+    margin-left: 20px;
+    width: 96px;
+    height: 35px;
+    margin-top: 20px;
+    border: 1px solid  #8338EC;
+    border-radius: 30px;
+    box-shadow: 0 0 8px #c043ff, 0 0 16px #c043ff40;
+    transition: all 0.3s ease;
+  
+}
+.FIGMA3{
+    margin-left: 4px;
+}
+.imagen_FoodDelivery{
+    margin-left: 52rem;
+    margin-top: -20rem;
+}
+.imagen_fooddelivery{
+    height: 15rem;
+    width: 30rem;
+    border-radius: 20px;
+    background-color: transparent;
+     mix-blend-mode: multiply;
+    filter: brightness(1.1) contrast(1);
+    background-color:#E9DEFF;
+}
+.cuadrado5{
+    width: 83rem;
+    height: 30rem;
+    background-color:#1E0044;
+    margin: auto;
+    margin-top: 2rem;
+    border-radius: 20px;
+}
+.fecha4{
+    margin-left: 20px;
+    color: #1E0044;
+}
+.Hospital{
+    margin-left: 20px;
+    color:#E9DEFF;
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+.titulo6{
+    margin-top: 2rem;
+}
+.opciones9{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    gap: 10px;
+
+}
+.titulo7{
+    margin-top: 4rem;
+}
+.herra_utiliza4{
+
+    margin-left: 20px;
+    color:#E9DEFF;
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+
+}
+.texto5{
+
+    width: 50rem;
+    height: 8rem;
+    margin-left: 20px;
+
+}
+.herramientas-utilizadas4{
+
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color:#E9DEFF;
+
+}
+.cuadrado4Git{
+    margin-top: 7px;
+}
+.cuadrado4VSC{
+    margin-top: 7px;
+}
+.cuadrado4HTML{
+    margin-top: 7px;
+}
+.cuadrado4CSS{
+    margin-top: 7px;
+}
+.opciones10{
+    margin-left: 20px;
+    width: 150px;
+    height: 35px;
+    margin-top: 20px;
+    border: 1px solid  #8338EC;
+    border-radius: 30px;
+    box-shadow: 0 0 8px #c043ff, 0 0 16px #c043ff40;
+    transition: all 0.3s ease;
+}
+.imgaen_Hopsital{
+    margin-left: 55rem;
+    margin-top: -26rem;
+
+}
+.img_hospital{
+
+    border-radius: 20px;
+    width: 27rem;
+    height: 27rem;
+
+}
+.cuadrado6{
+    width: 83rem;
+    height: 31rem;
+    background-color: #E9DEFF;
+    margin: auto;
+    border-radius: 20px;
+    margin-top: 2rem;
+}
+.fecha5{
+    color: #E9DEFF;
+    margin-left: 20px;
+}
+.colaboradores{
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+}
+.titulo8{
+    margin-left: 17.5rem;
+}
+.albertyelonmuskymark_img{
+    border-radius: 50%;
+    height: 13rem;
+    width: 12rem;
+}
+.Colaboradores2{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}
+.titulo9{
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+
+}
+.datoss{
+    Font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    padding-left: 20px;
+    text-align: left;
+    margin: 0 auto 20px;
+
+}
+.firma{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 2rem;
+    color: black;
+    margin-top: -12px;
+}
