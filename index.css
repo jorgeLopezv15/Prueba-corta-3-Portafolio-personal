@@ -483,7 +483,6 @@ p{
     color: black;
     margin-top: -12px;
 }
-/* Responsive para tablets y pantallas medianas */
 @media (max-width: 1024px) {
   .cuadrado1,
   .cuadrado2,
@@ -534,7 +533,7 @@ p{
   }
 }
 
-/* Responsive para móviles */
+
 @media (max-width: 768px) {
   h6, .MegaMarket, .calculadora, .FoodDeliveryApp, .Hospital, .colaboradores {
     font-size: 1.5rem;
@@ -600,4 +599,34 @@ p{
     width: 80px;
     height: auto;
   }
+  .herramientas-utilizadas,
+  .herramientas-utilizadas2,
+  .herramientas-utilizadas3,
+  .herramientas-utilizadas4{
+    margin-right: 10rem;
+  }
+  .linea2,
+  .linea{
+
+    padding-left: 8rem;
+
+  }
+
+
+
+  
+    
+}
+.img-h{
+    width: 8rem;
+    height: 8rem;
+    margin-left: 2rem;
+}
+
+
+.img-estak{
+    width: 8rem;
+    height: 8rem;
+    margin-left: 2rem;
+
 }
